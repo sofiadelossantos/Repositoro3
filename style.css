@@ -1,0 +1,15 @@
+
+h1 {
+font-size: 36px;
+color: blue;
+font-family: 'Open Sans';
+}
+
+li {
+background-color: #ccc;
+color: #fff;
+width: 100px;
+padding: 20px;
+border: 1px solid #000;
+border-radius: 5px;
+
